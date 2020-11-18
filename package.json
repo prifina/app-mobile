@@ -60,7 +60,6 @@
     "@storybook/addons": "v6.1.0-alpha.14",
     "@storybook/react": "v6.1.0-alpha.14",
     "@styled-system/prop-types": "^5.1.5",
-    "babel-loader": "^8.1.0",
     "react-test-renderer": "^16.13.1"
   }
 }
